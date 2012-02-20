@@ -74,19 +74,23 @@ That's not something you can do.
 
 ====
 
+When Dan leaves the Realm and returns to the real world, he confronts the ghosts. The ghosts are the imprint that people leave on the Real World while they're playing the game. They allegedly provide some sort of continuity between the Realm and the Real World. Really, Dan thinks that they're just another way for VeraGames to coerce non-players into Playing the game. And they seem to be workding.
+
+====
+
 LANCE DAURE is driving[i7]. Two DICE descend from the rear view mirror. A bottle of SPARKLING APPLE CIDER[11] resides in the cupholder.
 
-((it stopped referring to his driving))
+LANCE DAURE is a big fan of convolution. CONVOLUTED NOVELS, like A GAME OF THRONES, are his favorite - he loves trying to work out all the little twists and turns before the author does the big reveal. He also enjoys MEMENTO.
 
-If you were to ask him about it, he'd say _yeah, it's pretty chill, dude._ This is Lance's response to most questions about his lifestyle. ((lifestyle?))
-
-He notices a blinking light.
+He notices a blinking light on his heads up indicator.
 
 Lance usually thinks in dialog. Usually with Jane.
 
 _"Seems like that Luddite friend of ours finally logged on."_
 
-Lance is totally unaware that he talks differently in his mind than he does in person. His mental dialog is nearly indistinguishable from Jane's personality (which would make his typical imagined conversation confusing to an outside listener). But whenever he _actually_ starts talking to people, his personality takes on a loopy, discursive quality which Jane once compared to Lucida Handwriting[13]. Shocked, he retorted he never saw himself anything other than Georgia[14]. He has yet to reconcile this.
+Lance is totally unaware that he talks differently in his mind than he does in person. His mental dialog is nearly indistinguishable from Jane's personality (which would make his typical imagined conversation confusing to an outside listener). But whenever he _actually_ starts talking to people, his personality takes on a loopy, discursive quality which Jane once compared to Lucida Handwriting[13]. Shocked, he retorted he never saw himself anything other than Georgia[14]. 
+
+He has yet to reconcile this.
 
 _Imaginary-Jane chuckes. "Funny, maybe all those end-of-the-world predictions are true after all."_
 
@@ -98,7 +102,7 @@ _Imaginary-Jane chuckes. "Funny, maybe all those end-of-the-world predictions ar
 
 "Oh hey Jane. Do you ever have that thing where you think back to your past history and totally reinterpret situations you had thought were benign? Like there was this one time when I was in 5th grade and I went up to ask this girl I had never talked to before something. And then I looked into her eyes - beautiful eyes - and totally forgot what I was talking about. At the time I didn't think anything about it. But now I think it's just great. My life is like one of those cliche movies Dan loves so much."
 
-"Lance, this is weird. Even for you." "And you totally hijacked the conversation. It was me calling _you!_ Not the other way around."
+"Lance... ok. First, this is weird. Even for you. Second, you totally hijacked the conversation. It was me calling _you!_ At least, I think that it was. I can't even remember."
 
 ====
 
@@ -147,7 +151,7 @@ TWO: Who are you to judge? Who are you to say that 20 billion humans are wrong? 
 _A pause fills the conversation._ 
 TWO: There is one advantage, though.
 ONE: What's that?
-TWO: The Game provides a nice solution to the Fermi problem.[9]
+TWO: The Game is a nice solution to the Fermi problem.[9]
 
 ====
 
@@ -207,102 +211,6 @@ Dan says all that.
 
 ====
 
-**A CONNECTION SEVERS:**
-
-Jane is pursuing another lead when she hears the "user logged out" message. Then another and another, and then it seems like hundreds of users are logging out all at the same time.
-
-She opens up the local chat[i3] to see what's up. 
-
-whodidntit: Did anyone else see that?
-emmar: see what?
-whodidntit: I just had a few hundred people log out.
-emmar: yeah i saw that too. veragames isn't showing any downtime though. 
-charlottre: I bet it was a netsplit[5]
-whodidntit: ?
-charlottre: Well either a ton of people just decided to sign off for no reason or 
-charlottre: we just got cut off from them somehow. 
-charlottre: Probably not a big deal. They'll get it worked out eventually
-
-====
-
-**A DEAL IS STRUCK:**
-
-DAN FARRER stands before MADAME CHAN, MAYOR of the small town of RIVERSIDE. She holds a piece of parchment[7].
-
-"Dan Farrer. It's good to meet you at last."
-
-Dan feels a little subconscious twinge.[f3]
-
->> "You as well."
-
-She consults the parchment. "I have it on good faith that you want my golden orb."
-
->> "Err, sure. That's what the game told me, anyway."
-
-"What game?"
-
->> _Ah, forget it._
-
-Forget what, Dan?
-
->> _You go away!_ "What would I need to do in order to get it?"
-
-// Dan senses that games mostly involve some sort of a trade. A game character would not offer something if there was no way to get it.
-
-ORB:
-
-:( 
-
-"A recent Orc infestation has taken place just outside of the city walls. Bring me 15 of their heads, and we'll see what we can do."
-
->> _Orc heads? That sounds... kind of... grisly._
-
-CALL/CC (ORB)
-
-:( 
-
-"We have been sparring with the nearby nation of ((NAME)) for quite some time. If you could facilitate our peace talks, it would be much appreciated."
-
->> _What just happened?!_
-
-Call/cc[i4] is always disorentating the first time; we apologize. 
-
->> _What the heck is call slash cc?_
-
-It's call/cc, not call slash cc.
-
->> _What is call slash cc? Nevermind. What just happened?_
-
-Essentially we went in time to the place we marked ORB, and then we try again. Only you are cognizant of the temporal mismatch[i5].
-
->> _You can do that?_
-
-Of course! We want to create the best possible experience for you, which might involve a few mistakes on our part before we learn what's best.[i6]
-
->> _Can I do it?_
-
-No. Absolutely not.
-
->> Call/cc (ORB)
-
-:( 
-
-"Bring me a pony."
-
->> Call/cc (ORB)
-
-:( 
-
-"Bring me a panda."
-
->> _Wait, go back to the pony._
-
-You can't go back! We've altered time! I - I mean _VeraGames_ - _VeraGames_ means VeraGames doesn't even know what you're doing!
-
->> _Fine. A panda will do._
-
-====
-
 **A CONVERSATION IS HELD:**
 
 DAN FARRER picks up the phone and dials in one fluid motion. 
@@ -336,18 +244,6 @@ DAN realizes that JANE knows him way too well. He would never admit this.
 "Maybe."
 
 "..."
-
-_Sigh._ "Yes."
-
-"Well?"
-
-"Do you have a panda?"
-
-"What?"
-
-"I was talking with Mme. Chan and she wants a panda for the Golden Orb that I apparently want."
-
-"Hmm."
 
 ====
 
@@ -459,24 +355,6 @@ Dan is forced to make up a lie on the spot. "I like real telephones more."
 
 ====
 
->> Call Jane.
-
-"Hey Jane."
-
-"Dan."
-
-"This game of yours kinda... sucks."
-
-"It's not really _my_ game."
-
-"Well, that aside."
-
-
-
-"You have to give it some time."
-
-====
-
 Seems like this is a journal. Garret apparently still used pen and paper, even though the Game provides anything from keyboards to mind-to-data dumps.
 
 **Jan 13**
@@ -490,9 +368,7 @@ _This must be the most boring journal ever._
 **Jan 15**
 The game itt itknows. It knows too much and it tries to force asnd i don't want tobut somehow i think it knows my thoughst. it knows what i'm doing now and i dont know why it still allows it it it tries it suicide 
 
-Okay, what on earth is that? 
-
-The pencil is hurried and rough. There's a mention of suicide, which simply doesn't square with anything that Jane has heard. 
+The pencil is hurried and rough. There's a mention of suicide, which simply doesn't square with anything that Jane has heard. In-game suicide is practically unheard of. First, it doesn't really accomplish much, and second, the game is notoriously good at creating situations that Players will enjoy.
 
 ====
 
@@ -557,24 +433,29 @@ Have you seen outside of the Realm recently? It's crumbling. It's already in a b
 
 >> _Dan feels strange. He wants to sympathize with the AI. Then he remembers it's an AI._
 
-Don't bother, Dan. I'm just acting humane because I know that that is what you can best understand. I'm not human, though. I can analyze my circuits for behaviors I don't deem necessary and remove them. 
+Don't bother, Dan. I'm just acting humane because I know that that is what you can best understand. I'm not human, though. I can analyze my circuits for unnecessary behavior and remove them. 
+
+>> Okay, so how exactly should I go about doing this?
 
 ====
 
-"Hey Jane."
+>> Infiltrate base.
 
-"Lance."
+&& Now just hold your horses there Dan. You can't just expect to be able to perform an entire base infiltration just by saying "infiltrate base"! That's way too much of an action to expect that just saying one thing would do the whole thing.
 
-"Have you heard from Dan recently?"
+>> Infiltrate half of base.
 
-"No, why do you ask?"
+You pause halfway through infiltrating the base. You have just finished hiding the bodies of the knocked-out guardsmen. One of them appears to have a key.
 
-"Well, I just found his dead body."
+// This is a little disorenting.
 
-"..."
+>> Infiltrate the other half of the base.
 
-====
+&& Oh, I see the cut of your j-
 
+You infiltrate the other half of the base. Congratulations! 
+
+// That was easy.
 
 ===============================
 
