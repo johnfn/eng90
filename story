@@ -94,7 +94,11 @@ _Imaginary-Jane chuckes. "Funny, maybe all those end-of-the-world predictions ar
 
 ====
 
+"Hey Lance."
 
+"Oh hey Jane. Do you ever have that thing where you think back to your past history and totally reinterpret situations you had thought were benign? Like there was this one time when I was in 5th grade and I went up to ask this girl I had never talked to before something. And then I looked into her eyes - beautiful eyes - and totally forgot what I was talking about. At the time I didn't think anything about it. But now I think it's just great. My life is like one of those cliche movies Dan loves so much."
+
+"Lance, this is weird. Even for you." "And you totally hijacked the conversation. It was me calling _you!_ Not the other way around."
 
 ====
 
