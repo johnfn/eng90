@@ -74,13 +74,48 @@ That's not something you can do.
 
 ====
 
-When Dan leaves the Realm and returns to the real world, he confronts the ghosts. The ghosts are the imprint that people leave on the Real World while they're playing the game. They allegedly provide some sort of continuity between the Realm and the Real World. Really, Dan thinks that they're just another way for VeraGames to coerce non-players into Playing the game. And they seem to be workding.
+When Dan leaves the Realm and returns to the real world, the ghosts are out. The ghosts are the imprint that people leave on the Real World while they're playing the game. They allegedly provide some sort of continuity between the Realm and the Real World. Really, Dan thinks that they're just another way for VeraGames to coerce non-players into Playing the game. And they seem to be workding.
+
+====
+
+"I don't really like the Game."
+
+"Dan, you've been playing for like 2 minutes. What have I told you about snap judgements?"[??]
+[??] (What she told him was that humans have a well known cognitive bias where once you make a judgement, even if you don't believe it, you're much more likely to actually end up believing it. In a study, researchers told participants who had no leanings beforehand to take a chosen side of an issue. After the study, participants overwhelmingly favored the side they had been assigned.)
+
+"No, not that. I mean, the concept of the Game itself. I just... it doesn't sit well with me that this game enables billions of people to squander their lives away."
+
+"That's... that's a bit harsh."
+
+"How so?"
+
+"The Game is just the next evolution of entertainment. Would you say that a library allowed people to squander their lives away? Or movie theaters? When The Beatles wrote Abbey Road, was that a great sin?"
+
+Dan is about to respond, but then he pauses for a second. "You don't believe what you're saying at all, do you. This is just you playing devil's advocate."
+
+"Dan, I told you literally one minute ago that making snap judgements are bad. And now look."
+
+"But you don't like the game."
+
+"Fine. You're right. I don't." She sighs. "To tell you the truth? Disliking it makes me feel old. Resistant to change. I feel like an antibody of civilization. Rejecting the new." A pause. "There is a fine balance to strike in order to use the game without becoming addicted to the game. Without forgetting why we are here in the first place. I just use it as a way to make the world a bit more convenient. But I don't think that's how most people use it."
+
+====
+
+PALAVER IS HELD.
+
+TWO: What is the difference between the Game and a library, say?
+ONE: You can't be serious.
+TWO: Go on, humor me.
+ONE: [takes a breath before responding] There are two types of art. Will you accept this, this overgeneralization, this coerce of everything we speak of into art. A producer speaks desynchronized in time from a consumer who listens. [TWO nods.] The first type of art is active art. Active art demands from the consumer - the reader, the watcher - focus, concentration. To receive pleasure he must put forth effort in equal measure. 
+ONE: The second type of art is passive art. The television is the quintessential example. One does not need to put forth effort to watch their favorite show in the general case. There are exceptions. But they are not the rule.
 
 ====
 
 LANCE DAURE is driving[i7]. Two DICE descend from the rear view mirror. A bottle of SPARKLING APPLE CIDER[11] resides in the cupholder.
 
 LANCE DAURE is a big fan of convolution. CONVOLUTED NOVELS, like A GAME OF THRONES, are his favorite - he loves trying to work out all the little twists and turns before the author does the big reveal. He also enjoys MEMENTO.
+
+((MOAR))
 
 He notices a blinking light on his heads up indicator.
 
@@ -102,7 +137,11 @@ _Imaginary-Jane chuckes. "Funny, maybe all those end-of-the-world predictions ar
 
 "Oh hey Jane. Do you ever have that thing where you think back to your past history and totally reinterpret situations you had thought were benign? Like there was this one time when I was in 5th grade and I went up to ask this girl I had never talked to before something. And then I looked into her eyes - beautiful eyes - and totally forgot what I was talking about. At the time I didn't think anything about it. But now I think it's just great. My life is like one of those cliche movies Dan loves so much."
 
-"Lance... ok. First, this is weird. Even for you. Second, you totally hijacked the conversation. It was me calling _you!_ At least, I think that it was. I can't even remember."
+"Lance... Okay... First... this is weird. Even for you. Second, you totally hijacked the conversation. It was me calling _you!_ At least, I think that it was. I can't even remember. I think I had something to say but now I've forgotten it entirely."
+
+"I've never heard you so flustered."
+
+"I'm- I'm going to have to call back."
 
 ====
 
@@ -329,29 +368,13 @@ DAN FARRER is finally starting to get the hang of this.
 
 >> Call Lance.
 
-"Lance, can we talk not in the Game?"
+"Yello."
 
-"Uh, why?"
+"Lance, something really weird is going on."
 
-Dan is forced to make up a lie on the spot. "I like real telephones more."
+"Is it as weird as what I see going on right now?"
 
-"Okay, sure."
-
-:: A bit later. ((me misusing punctuaction again))
-
-"You ever get the feeling that the Game AI is a little too- chatty?"
-
-"What Game AI?"
-
-"He is like constantly talking to me. It's kind of weird."
-
-"I have no idea what you mean. There was a little voiceover at the beginning, I think when the game hadn't quite settled. All this stuff I shouldn't do"
-
-"Yeah!"
-
-"But then it asked me a few opinions and was silent."
-
-"OK, that's weird."
+Dan considers this. "Probably not. But that aside, listen: the Game AI is being way too friendly with me."
 
 ====
 
@@ -441,17 +464,17 @@ Don't bother, Dan. I'm just acting humane because I know that that is what you c
 
 >> Infiltrate base.
 
-&& Now just hold your horses there Dan. You can't just expect to be able to perform an entire base infiltration just by saying "infiltrate base"! That's way too much of an action to expect that just saying one thing would do the whole thing.
+&& Now just hold your horses there Dan. You can't just expect to be able to perform an entire base infiltration just by saying "infiltrate base"! That's way too much work to expect that just saying one thing would do the whole thing.
 
 >> Infiltrate half of base.
 
-You pause halfway through infiltrating the base. You have just finished hiding the bodies of the knocked-out guardsmen. One of them appears to have a key.
+You pause halfway through infiltrating the base. You are hiding the bodies of the knocked-out guardsmen. One of them appears to have a key.
 
 // This is a little disorenting.
 
 >> Infiltrate the other half of the base.
 
-&& Oh, I see the cut of your j-
+&& Oh, now hold on a sec-
 
 You infiltrate the other half of the base. Congratulations! 
 
