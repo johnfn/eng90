@@ -8,48 +8,11 @@ Welcome to the Realm, Dan Farrer.
 
 This is your first time here. Don't be scared. Don't be nervous. Don't be confused by the twisty little passages, all alike#footnote 0#. There aren't any#footnote 1#. Don't look around too fast; our profile on you indicates that your graphical capabilities are not sufficient to render a requisite number of polygons. VeraGames extends its apologies. Don't stray into the water - you can't swim, yet#footnote 2#. Don't be worried about visual artifacts. Don't spend too long here; be sure to surface occasionally for food and sunshine#footnote 3#. Don't be caught unaware, because death in the Realm will require you to start again.
 
-#0 http://en.wikipedia.org/wiki/Colossal_Cave_Adventure#Maze_of_twisty_little_passages
-#1 Yet.
-#2 http://en.wikipedia.org/wiki/The_Legend_of_Zelda#1990s
-#3 VeraGames are required to say this, as part of compensatory measures detailed in Orius v. VeraGames Industries, (2050). Nonetheless, it is rare for a Player to leave the Game for long periods.
-
->>#footnote 10# _If only they could tell me what I_ could _do. All these don'ts are boggling my mind._
-
-#10 In text based adventure games of yore, the adventurer would be provided with a description of where they are (like: You enter the dungeon. You see a flickering light off in the distance.), and a prompt. Players type their action (like: Follow light) after the prompt, the game outputs a new description and a prompt, and so on. TODO this makes little sense.
-
-Don't be off-put by the number of "don't"s. 
-
->> _Thanks._
-
-Don't not be welcomed.
-
->> _That's a double negative._
-
-Don't be alarmed of double negatives.
-
->> _Is this game reading my mind?_
-
-Don't--
-
-...
-
-Kind of.
-
->> _Kind of? Does that mean you have access to all my deep secrets and desires? Like that one time c- actually, forget that._
-
-Forgotten.
-
->> _But do answer my question._
-
-What question?
-
->> _Bah, nevermind. Look around._
-
 It is the year 2044, the eighth year of the Realm. You find yourself in a quaint HOME. At least presumably. You are standing next to your BED, as if you have just woken up, perhaps for the first time. You sense some METAPHORICAL SIGNIFICANCE of this fact. The SUN filters in through your FENESTRATIONS. There is a NOTE on your dresser.
 
 What do you do?
 
->> _How can I talk to my friends in this thing?_
+>> #footnote 10# _How can I talk to my friends in this thing?_
 
 That's not something you can do.
 
@@ -57,17 +20,23 @@ That's not something you can do.
 
 That's not something you can do.
 
+#0 http://en.wikipedia.org/wiki/Colossal_Cave_Adventure#Maze_of_twisty_little_passages
+#1 Yet.
+#2 http://en.wikipedia.org/wiki/The_Legend_of_Zelda#1990s
+#3 VeraGames are required to say this, as part of compensatory measures detailed in Orius v. VeraGames Industries, (2050). Nonetheless, it is rare for a Player to leave the Game for long periods.
+#10 In text based adventure games of yore, the adventurer would be provided with a description of where they are (like: You enter the dungeon. You see a flickering light off in the distance.), and a prompt. Players type their action (like: Follow light) after the prompt, the game outputs a new description and a prompt, and so on. TODO this makes little sense.
+
 ====
 
 JANE ALIA has just finished talking with BRETT when a notification pops up#footnote 12#.
 
-#12 The Game provides Players with Heads Up Displays. Imagine having useful information overlayed over your vision. Jane has small lights indicating when her friends have logged on.
 >> Check contacts.
 
 Her contact list fans out.
 
 >> Oh, Dan is on.
 
+#12 The Game provides Players with Heads Up Displays. Imagine having useful information overlayed over your vision. Jane has small lights indicating when her friends have logged on.
 ====
 
 DAN FARRER has not made any progress. There is a BLINKING LIGHT in the bottom right corner of his vision.
@@ -84,7 +53,45 @@ That's not something you can do.
 
 .#footnote sidestory1#
 
-#sidestory1 When Dan leaves the Realm and returns to the real world, the ghosts are out. The ghosts are the imprint that people leave on the Real World while they're playing the game. They allegedly provide some sort of continuity between the Realm and the Real World. Really, Dan thinks that they're just another way for VeraGames to coerce non-players into Playing the game. And they seem to be workding.
+#sidestory1 ((This is a potential opener))
+
+#sidestory1 When Dan returns to the real world, he sees ghosts. Ghosts are the imprint that in-Game Players leave on the Real World. They allegedly provide some sort of continuity between the Realm and the Real World. Really, Dan thinks that they're just another way for VeraGames to coerce non-players into Playing the game.
+
+====
+
+**A REALM IS ENTERED... AGAIN**
+
+Welcome to the Realm.
+
+>> _Haven't I heard this already?_
+
+VeraGames ignores your impetuous remark. Instead, let us tell you a bit about why you are here.
+
+The Realm is a massive world, a world in some sense placed on top of the world that you currently inhabit. The Realm is a More Convenient World. What we mean is that the Realm allows you to do things that you would be unable to do in real life, simply because it is a game. Instead of taking an airline trip and wasting hours of time, you can simply teleport to designated teleportation spots located all around the world. Instead of wasting thousands on decor, you can buy furniture for nominal prices#footnote 21#. Ever wanted to play a Stradivarius? Ever wanted to own a grand piano? 
+
+((bluh))
+
+#21 VeraGames claims that the reason you have to pay for a bed/couch/whatever at all is that it needs to dedicate some fraction of a CPU to physics simulation. Any CS major with half a brain can tell you this is total hogwash. With today's hyptherthreaded polycores, the cost of simulating a couch is equal to an insultingly small number of penny atoms. ((maybe trying tooo hard))
+
+>> _Neat._
+
+VeraGames concurs! Of course, the Realm would not be a true game without an end goal. A mission to accomplish.
+
+VeraGames attempts to create the perfect Scenario for each Player. What we mean by that is that we will try to integrate you in the Realm by allowing you to do what you would be the most interesting in. For instance, we provide artists with the best set of tools available; writers with organization and quiet, and so on#footnote 16#.
+
+_Dan tries to think of what this might be._
+
+_Although Dan works an 8-5 programming job, if pressed he would probably admit that the most interesting work he's ever done was several years ago, when he played hacker. He finds tearing things down to be more interesting intellectually, somehow. There is an appeal, he would argue, to the match of wits._
+
+_Programming was always a fight against the self._
+
+_But hacking. Hacking was you against another. You had to figure out his mistakes, his the cracks in the mortar, while not making any yourself._
+
+_But certainly the most compelling part, for Dan, was the aspect of doing something_ he was not supposed to do. _He wonders how the realm could ever mimick that._
+
+>> _You weren't quite so helpful last time._
+
+VeraGames is always learning. 
 
 ====
 
@@ -165,39 +172,6 @@ _Imaginary-Jane chuckes. "Funny, maybe all those end-of-the-world predictions ar
 ====
 
 Dan's memory is a hash map. A hash map is a data structure in computer science. You ask it a question, and it'll give you the same answer back every time. The problem is: you have to ask it the right questions. No matter how many times you ask it "what shirt was my friend wearing yesterday," it'll never be able to tell you. But if you would just ask "what did breakfast look like yesterday," and your friend was at breakfast, well.
-
-====
-
-**A REALM IS ENTERED... AGAIN**
-
-Welcome to the Realm.
-
->> _Haven't I heard this already?_
-
-VeraGames has decided to ignore your impetuous remark. Instead, let us tell you a bit about why you are here.
-
-The Realm is a massive world, a world in some sense placed on top of the world that you currently inhabit. The Realm is a More Convenient World. What we mean is that the Realm allows you to do things that you would be unable to do in real life, simply because it is a game. Instead of taking an airline trip and wasting hours of time, you can simply teleport to designated teleportation spots located all around the world. ((moar))
-
->> _Neat._
-
-VeraGames concurs! Of course, the Realm would not be a true game without an end goal. A mission to accomplish.
-
-VeraGames attempts to create the perfect Scenario for each Player. What we mean by that is that we will try to integrate you in the Realm by allowing you to do what you would be the most interesting in. For instance, we provide artists with the best set of tools available; writers with organization and quiet, and so on#footnote 16#.
-
-_Dan tries to think of what this might be._
-
-_Although Dan works an 8-5 programming job, if pressed he would probably admit that the most interesting work he's ever done was several years ago, when he played hacker. He finds tearing things down to be more interesting intellectually, somehow. There is an appeal, he would argue, to the match of wits._
-
-_Programming was always a fight against the self._
-
-_But hacking. Hacking was you against another. You had to figure out his mistakes, his the cracks in the mortar, while not making any yourself._
-
-_But certainly the most compelling part, for Dan, was the aspect of doing something_ he was not supposed to do. _He wonders how the realm could ever mimick that._
-
->> _You weren't quite so helpful last time._
-
-VeraGames is always learning. 
-
 ====
 
 **IN ANOTHER PLACE, IN ANOTHER TIME, PALAVER IS HELD:**
@@ -529,7 +503,9 @@ DAN: The Game AI says that yes, for a few years after the destruction of the Rea
 JANE: See?
 DAN: But it claims a high probability that a new Realm will be created in under fifteen years. This new Realm will expand on it's predecessor, but it will fix the problems of the old Realm. The new Realm will not be mindless entertainment, but will instead require active participation. ((Moar about this wonderful utopia that totally exists!))
 JANE: That...
-LANCE: That doesn't sound too bad.
+LANCE: Hm.
+
+====
 
 
 #17 ((INSERT LINK.))
