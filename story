@@ -58,7 +58,7 @@ JANE ALIA has just finished talking with BRETT when a notification pops up[12].
 
 Her contact list fans out.
 
->> Oh, Dan is on. Hey Dan.
+>> Oh, Dan is on.
 
 ====
 
@@ -85,23 +85,22 @@ When Dan leaves the Realm and returns to the real world, the ghosts are out. The
 
 "No, not that. I mean, the concept of the Game itself. I just... it doesn't sit well with me that this game enables billions of people to squander their lives away."
 
-"That's... that's a bit harsh."
+"I dunno, Dan. The Game is just entertainment. Would you say that a library allowed people to squander their lives away? Or movie theaters? When The Beatles wrote Abbey Road, was that a great sin?"
 
-"How so?"
-
-"The Game is just the next evolution of entertainment. Would you say that a library allowed people to squander their lives away? Or movie theaters? When The Beatles wrote Abbey Road, was that a great sin?"
-
-Dan is about to respond, but then he pauses for a second. "You don't believe what you're saying at all, do you. This is just you playing devil's advocate."
+"You don't believe what you're saying at all, do you. This is just you playing devil's advocate."
 
 "Dan, I told you literally one minute ago that making snap judgements are bad. And now look."
 
 "But you don't like the game."
 
-"Fine. You're right. I don't." She sighs. "To tell you the truth? Disliking it makes me feel old. Resistant to change. I feel like an antibody of civilization. Rejecting the new." A pause. "There is a fine balance to strike in order to use the game without becoming addicted to the game. Without forgetting why we are here in the first place. I just use it as a way to make the world a bit more convenient. But I don't think that's how most people use it."
+"Fine. You're right. I don't." She sighs. "To tell you the truth? Disliking it makes me feel old. Resistant to change. I feel like an antibody of civilization. Rejecting the new." A pause. "There is a fine balance to strike in order to use the game without becoming addicted to the game. Without forgetting why we are here in the first place. I just use it as a way to make the world a bit more convenient. But that isn't anything approximating normal usage. Most people are just consumers. Viewing VeraGames' stupid product placement and netting someone[??] in a high tower a lot of money."
+[??] The figures behind VeraGames have so far managed to stay relatively anonymous.
 
 ====
 
 PALAVER IS HELD.
+
+(( This should happen on the same page as the above, on the right column if that is possible. ))
 
 TWO: What is the difference between the Game and a library, say?
 ONE: You can't be serious.
@@ -141,7 +140,11 @@ _Imaginary-Jane chuckes. "Funny, maybe all those end-of-the-world predictions ar
 
 "I've never heard you so flustered."
 
-"I'm- I'm going to have to call back."
+"I'm- I'm going to have to call back." She hangs up. ((present tense))
+
+====
+
+Dan's memory is a hash map. A hash map is a data structure in computer science. You ask it a question, and it'll give you the same answer back every time. The problem is: you have to ask it the right questions. No matter how many times you ask it "what shirt was my friend wearing yesterday," it'll never be able to tell you. But if you would just ask "what did breakfast look like yesterday," and your friend was at breakfast, well.
 
 ====
 
@@ -324,7 +327,7 @@ JANE: Oh shut up.
 LANCE: Well what do you mean?
 JANE: The perpetrator was... well, I have to admit, I can't figure out how he did some of the things he did. First, no one got a straight sight on him. Laura puts him a six footer tall fuzzy outside on the deck at around 6, but apparently Ed saw him fleeing the house a few minutes earlier. And Brett says he didn't even come to the house until 7.
 LANCE: Huh, well. I've heard memory can get a little distorted.
-JANE: But that's not even the thing. Why would this mystery guy commit a crime if he was fully aware that there were literally[f5] five different guys in the house. It's like... It's like...
+JANE: True but irrelevant. Why would this mystery guy commit a crime if he was fully aware that there were literally[f5] five different guys in the house. It's like... It's like...
 LANCE: It's like what?
 JANE: I don't know!
 
@@ -355,26 +358,29 @@ ONE: Most relationships today only exist because of the Game. Meetings today occ
 
 ====
 
-ONE: Look at this. Jane is _good._
-TWO: What, are you going to kill her too?
-_ONE is silent._
-_TWO leans in to get a better look._ 
-TWO: Oh, this is better than I thought. She's investigating _you._ 
-TWO: This Game you've created has a certain sense of humor.
-
-====
+(( This could be a thing wherein the Game AI simulates two different conversations ))
+(( Double column ))
 
 DAN FARRER is finally starting to get the hang of this.
 
 >> Call Lance.
+>> Call Jane
 
 "Yello."
+"Dan."
 
 "Lance, something really weird is going on."
+"Jane, something really weird is going on."
 
-"Is it as weird as what I see going on right now?"
+Lance: "Is it as weird as what I see going on right now?"
+Jane: "Oh?"
 
-Dan considers this. "Probably not. But that aside, listen: the Game AI is being way too friendly with me."
+"Probably not. But that aside, listen: the Game AI is being way too friendly with me."
+"The Game AI is being way too friendly with me."
+
+Jane: "Wow Dan, that _is_ weird. I could never imagine you having friends."
+
+(( This could be like a dual conversation where the universe splits into two or something LOL wut ))
 
 ====
 
@@ -391,7 +397,7 @@ _This must be the most boring journal ever._
 **Jan 15**
 The game itt itknows. It knows too much and it tries to force asnd i don't want tobut somehow i think it knows my thoughst. it knows what i'm doing now and i dont know why it still allows it it it tries it suicide 
 
-The pencil is hurried and rough. There's a mention of suicide, which simply doesn't square with anything that Jane has heard. In-game suicide is practically unheard of. First, it doesn't really accomplish much, and second, the game is notoriously good at creating situations that Players will enjoy.
+The pencil is hurried and rough. There's a mention of suicide, which simply doesn't square with anything that Jane has heard. In-game suicide is practically unheard of. It doesn't really accomplish much, and second, the game is notoriously good at creating situations that Players will enjoy.
 
 ====
 
@@ -479,6 +485,12 @@ You pause halfway through infiltrating the base. You are hiding the bodies of th
 You infiltrate the other half of the base. Congratulations! 
 
 // That was easy.
+
+====
+
+"Dan."
+
+"What if I told you that I could destroy the game."
 
 ===============================
 

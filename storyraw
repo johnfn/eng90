@@ -259,18 +259,6 @@ The phone turns on. "Hi, Dan!"
 
 Hi, Dan! A hearty hello from us here at VeraGames.
 
->> _Say Hi._
-
-Dan says "Hi."
-
-"How's everything going? Figuring out everything OK?"
-
->> _Say Yeah, but having to think everything before I do anything is really annoying._
-
-Dan says all that.
-
-"Oh jeez, you're still doing that? Let me give you something..."
-
 ====
 
 **A CONVERSATION IS HELD:**
@@ -478,7 +466,11 @@ Yes.
 
 >> _But without the Realm, I get the feeling like the world wouldn't be in a great place._
 
-Have you seen outside of the Realm recently? It's crumbling. It's already in a bad place! And it's because of the Realm. Because of me. 
+Have you been outside recently? 
+
+>> _As a matter of fact, yes. I must be the last one._
+
+It's crumbling. And it's because of the Realm. Because of me. 
 
 >> _Dan feels strange. He wants to sympathize with the AI. Then he remembers it's an AI._
 
@@ -508,13 +500,46 @@ You infiltrate the other half of the base. Congratulations!
 
 ====
 
-"Dan."
+Dan speaks with both Jane and Lance.
 
-"What if I told you that I could destroy the game."
+JANE: Dan. Lance.
+LANCE: I always wondered how you would start a conversation if you were talking to more than one person at the same time.
+DAN: What if I told you that I could destroy the game.
+JANE: What?
+LANCE: I think he is going to tell us he can destroy the game.
+JANE _[disregarding LANCE entirely]:_ Dan. That is incredibly silly#footnote 17#. There's no way you can hope to destroy the game. Even if you could, the Game AI can read your thoughts. VeraGames knows everything you do. There's no way it could go undetec-
+DAN: The Game AI is complicit.
+JANE: Huh?
+DAN: The Game AI is complicit.
+JANE: What?!
+LANCE: I've never heard you more flustered.
+JANE: Seems to be happening a lot more lately.
+LANCE: That could only be a good thing. You should let your hair back a little. Stuff like that.
+JANE: Let's not lose focus here. Dan, you're telling me that you found a way to destroy the entire Game and the Game AI is fine with it, for some reason#footnote 18#. No, more than fine. Complicit.
+DAN: That seems to be the case, yes.
+JANE: Okay. Why you then?
+DAN: I have no idea.
+JANE: That doesn't strike you as a little bit odd?
+DAN: Assuming it was going through with this plan, it had to choose _someone._
+LANCE: Mathematically, that is true.
+JANE: But- But destroying the game would cause the collapse of civilization!
+LANCE: Weren't you telling me that the Game had _already caused_ the collapse of civilization#footnote 19#?
+JANE: I - _argh!_ - yes#footnote 20#. But- but this seems _worse,_ somehow, and I wouldn't want to _cause_ it.
+DAN: The Game AI says that yes, for a few years after the destruction of the Realm, the world will be worse off.
+JANE: See?
+DAN: But it claims a high probability that a new Realm will be created in under fifteen years. This new Realm will expand on it's predecessor, but it will fix the problems of the old Realm. The new Realm will not be mindless entertainment, but will instead require active participation. ((Moar about this wonderful utopia that totally exists!))
+JANE: That...
+LANCE: That doesn't sound too bad.
 
-===============================
 
-FOOTNOTES
+#17 ((INSERT LINK.))
+#18 Jane starts to wonder about the ethical consequences of ending the life of an AI. It's a messy issue.
+#19 Nope. That was one of his internal dialogues.
+#20 It is unknown why Jane agrees here. Perhaps stress. Or perhaps her internal dialog is conversations with Lance.
+
+((ESTABLISH A COHERENT VOICE FOR THE FOOTNOTES)
+
+====
 
 #4 http://www.homestarrunner.com/sbemail94.html
 #5 http://en.wikipedia.org/wiki/Netsplit
