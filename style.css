@@ -1,0 +1,13 @@
+.normal {
+  float: left;
+  width: 45%;
+}
+
+.footnote {
+  float: right;
+  width: 45%;
+}
+
+body {
+  font-family: arial;
+}
