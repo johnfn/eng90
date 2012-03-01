@@ -8,7 +8,7 @@ Welcome to the Realm, Dan Farrer.
 
 This is your first time here. Don't be scared. Don't be nervous. Don't be confused by the twisty little passages, all alike#footnote 0#. There aren't any#footnote 1#. Don't look around too fast; our profile on you indicates that your graphical capabilities are not sufficient to render a requisite number of polygons. VeraGames extends its apologies. Don't stray into the water - you can't swim, yet#footnote 2#. Don't be worried about visual artifacts. Don't spend too long here; be sure to surface occasionally for food and sunshine#footnote 3#. Don't be caught unaware, because death in the Realm will require you to start again.
 
-It is the year 2044, the eighth year of the Realm. You find yourself in a quaint HOME. At least presumably. You are standing next to your BED, as if you have just woken up, perhaps for the first time. You sense some METAPHORICAL SIGNIFICANCE of this fact. The SUN filters in through your FENESTRATIONS. There is a NOTE on your dresser.
+It is the year 2044, the eighth year of the Realm. You find yourself in a quaint HOME. At least presumably. You are standing next to your BED, as if you have just woken up, perhaps for the first time. You sense some METAPHORICAL SIGNIFICANCE of this fact. The SUN filters in through your FENESTRATIONS.
 
 What do you do?
 
@@ -28,6 +28,10 @@ That's not something you can do.
 
 ====
 
+LANCE: I love talking about me. I could keep going for days. Me me me! I remember when I had college interviews, and after like an hour long barrage of questions they were like "well, we don't want to tire you out from talking too much..." and I was like "oh no, this is great! Do you have more?"
+
+====
+
 JANE ALIA has just finished talking with BRETT when a notification pops up#footnote 12#.
 
 >> Check contacts.
@@ -37,6 +41,7 @@ Her contact list fans out.
 >> Oh, Dan is on.
 
 #12 The Game provides Players with Heads Up Displays. Imagine having useful information overlayed over your vision. Jane has small lights indicating when her friends have logged on.
+
 ====
 
 DAN FARRER has not made any progress. There is a BLINKING LIGHT in the bottom right corner of his vision.
@@ -55,7 +60,7 @@ That's not something you can do.
 
 #sidestory1 ((This is a potential opener))
 
-#sidestory1 When Dan returns to the real world, he sees ghosts. Ghosts are the imprint that in-Game Players leave on the Real World. They allegedly provide some sort of continuity between the Realm and the Real World. Really, Dan thinks that they're just another way for VeraGames to coerce non-players into Playing the game.
+#sidestory1 Dan sees ghosts. Ghosts are the imprint that in-Game Players leave on the Real World. They allegedly provide some sort of continuity between the Realm and the Real World. Really, Dan thinks that they're just another way for VeraGames to coerce non-players into Playing the game.
 
 ====
 
@@ -93,9 +98,13 @@ _But certainly the most compelling part, for Dan, was the aspect of doing someth
 
 >> _You weren't quite so helpful last time._
 
-VeraGames is always learning. 
+VeraGames is always learning#footnote 23#.
+
+#23 The way that AI's "work" is through learning and training. AI particularly makes use of _training sets._ You show the AI hundreds of different classified examples (for example: This letter is an A. This letter is a B.), and for each one, you show it the correct answer. This is the training set. Then you run some algorithms, and the AI can now distinguish the categories (for example: It can tell A's from B's.)
 
 ====
+
+((IM pretty sure this is a non-Game conversation.))
 
 "I don't really like the Game."
 
@@ -104,7 +113,7 @@ VeraGames is always learning.
 
 "No, not that. I mean, the concept of the Game itself. I just... this game enables billions of people to squander their lives away. We're like the rats that the scientists have just introduced to the lever that gives them food pellets."
 
-"But the Game is just entertainment. Would you say that a library allowed people to squander their lives away? Or movie theaters? When The Beatles wrote Abbey Road, was it an attempt to ruin civilization? Of course not. If anything, they contributed to culture. The Game contributes to culture. At worse, it is a "
+"But the Game is just entertainment. Would you say that a library allowed people to squander their lives away? Or movie theaters? When The Beatles wrote Abbey Road, was it an attempt to ruin civilization? Of course not. If anything, they contributed to culture. The Game is a contribution to culture."
 
 There is a pause.
 
@@ -120,8 +129,7 @@ There is a pause.
 
 She continues. "But most people don't stop playing. The game creates its own consumers. Consuming VeraGames' stupid product placement and banner ads - and most importantly? Consuming entertainment."
 
-"And I can't just abandon the game. Too much of life is centered around this thing. My friends. My family. I feel like - like a hermit for only logging on a few times a week. You know, like those guys who would go out in the middle of nowhere - and just _live?_ I am approximating the modern day equivalent. And that is ridiculous."
-
+"And I can't just abandon the game. Too much of life is centered around this thing. My friends. My family. I feel like - like a hermit for only logging on a few times a week. You know, like those guys who would go out in the middle of nowhere - and just _live?_ I am the modern day equivalent. And that is ridiculous."
 
 #f7 The figures behind VeraGames have so far managed to stay relatively anonymous.
 #22 She wonders for a second if this is itself a bias.
@@ -135,7 +143,7 @@ She continues. "But most people don't stop playing. The game creates its own con
 #sidestory2 TWO: What is the difference between the Game and a library, say?
 #sidestory2 ONE: You can't be serious.
 #sidestory2 TWO: Go on, humor me.
-#sidestory2 ONE: [takes a breath before responding] There are two types of art. Will you accept this, this overgeneralization, this coerce of everything we speak of into art. A producer speaks desynchronized in time from a consumer who listens. [TWO nods.] The first type of art is active art. Active art demands from the consumer - the reader, the watcher - focus, concentration. To receive pleasure he must put forth effort in equal measure. 
+#sidestory2 ONE: [takes a breath before responding] There are two types of art. Will you accept this, this overgeneralization, this coerce of everything we speak of into art. Art: a producer speaking, desynchronized in time from a listening consumer. [TWO nods.] The first type of art is active art. Active art demands from the consumer - the reader, the watcher - focus, concentration. To receive pleasure he must put forth effort in equal measure. 
 #sidestory2 ONE: The second type of art is passive art. The television is the quintessential example. One does not need to put forth effort to watch their favorite show in the general case. There are exceptions. But they are not the rule.
 
 <p>&nbsp;</p>
@@ -150,9 +158,35 @@ She continues. "But most people don't stop playing. The game creates its own con
 
 ====
 
+THREE OR SO YEARS AGO.
+
+"Dan. I won't deny you have some skill."
+
+"Good."
+
+"But I really think that you're applying your skill in the wrong direction."
+
+"Oh not this again."
+
+"Dan, listen. When we come into this world, we are given a choice between applying our skills for good or for evil."
+
+"..."
+
+"But you totally subvert this choice and instead apply your skills towards bogus."
+
+"How is what I do bogus? If anything what _you_ do is bogus. I'm making a statement. I'm saying, Don't enter the Realm. I'm making a difference. Maybe a small one. But I do what I can with the skills I have."
+
+"You aren't looking at this like a normal person would look at this." 
+
+"So what? Normal people don't understand grand artistic statements. Should artists compromise their integrity just to be understood?"
+
+"That argument is so ridiculous I don't know where to begin. Dan. Most people see you as the enemy. Someone who disrupts their everyday life and business." 
+
+====
+
 LANCE DAURE is driving#footnote i7#. Two DICE descend from the rear view mirror. A bottle of SPARKLING APPLE CIDER#footnote 11# resides in the cupholder.
 
-LANCE DAURE is a big fan of convolution. CONVOLUTED NOVELS, like A GAME OF THRONES, are his favorite - he loves trying to work out all the little twists and turns before the author does the big reveal. He also enjoys MEMENTO.
+LANCE DAURE is a big fan of convolution. CONVOLUTED NOVELS, like A GAME OF THRONES, are his favorite - he loves trying to work out all the little twists and turns before the the big reveal. He also enjoys MEMENTO and PRIMER. His poster interpretation of the timeline of Primer hangs on his wall. Most of his friends confuse it with spaghetti (()).
 
 ((MOAR))
 
@@ -174,7 +208,7 @@ _Imaginary-Jane chuckes. "Funny, maybe all those end-of-the-world predictions ar
 
 "Hey Lance."
 
-"Oh hey Jane. Do you ever have that thing where you think back to your past history and totally reinterpret situations you had thought were benign? Like there was this one time when I was in 5th grade and I went up to ask this girl I had never talked to before something. And then I looked into her eyes - beautiful eyes - and totally forgot what I was talking about. At the time I didn't think anything about it. But now I think it's just great. My life is like one of those cliche movies Dan loves so much."
+"Oh hey Jane. Do you ever have that thing where you think back to your past history and totally reinterpret situations you had thought were benign? Like there was this one time when I was in 5th grade and I went up to ask this girl I had never talked to before something. And then I looked into her eyes - beautiful eyes - and totally forgot what I was talking about. At the time I didn't think anything about it. But now I think it's just great. ((My life is like one of those cliche movies Dan loves so much.))"
 
 "Lance... Okay... First... this is weird. Even for you. Second, you totally hijacked the conversation. It was me calling _you!_ At least, I think that it was. I can't even remember. I think I had something to say but now I've forgotten it entirely."
 
@@ -184,27 +218,25 @@ _Imaginary-Jane chuckes. "Funny, maybe all those end-of-the-world predictions ar
 
 ====
 
-Dan's memory is a hash map. A hash map is a data structure in computer science. You ask it a question, and it'll give you the same answer back every time. The problem is: you have to ask it the right questions. No matter how many times you ask it "what shirt was my friend wearing yesterday," it'll never be able to tell you. But if you would just ask "what did breakfast look like yesterday," and your friend was at breakfast, well.
+Dan's memory is a hash map. A hash map is a data structure in computer science. You ask it a question, and it'll give you the same answer back every time. The problem is: you have to ask it the right questions. N
+ matter how many times you ask it "what shirt was my friend wearing yesterday," it'll never be able to tell you. But if you would just ask "what did breakfast look like yesterday," and your friend was at breakfast, well.
+
+.#footnote sidestory3#
+
+#sidestory3 Inside a PRIVATE JET, two INTERLOCUTORS face each other across a table.
+
+#sidestory3 ONE: The Realm seems to be... a backdoor into the mind. A way to smooth over some of the demands of a conscious mind. A way to fufill Maslow's hierarchy without _actually_ doing so, if you will.
+#sidestory3 TWO: But happiness is happiness. Why should we worry about the mechanism? You place value on Maslow, but Maslow is arbitrary. The mechanisms of evolution are arbitrary. The two strongest correlates to happiness are relationship status and job satisfaction. Utterly meaningless when considered objectively.#footnote f1#
+#sidestory3 ONE: But if we are to abandon evolution, abandon our only guide through the darkness (if you will), then don't we in some way sacrifice our humanity, in the deepest sense?
+#sidestory3 TWO: We aren't abandoning our humanity. We're creating a new humanity.
+#sidestory3 ONE: But the humanity that we have created is deeply unsatisfying.
+#sidestory3 TWO: Who are you to judge? Who are you to say that 20 billion humans are wrong? Are somehow _in_human? How can you possibly say that your opinion is worth more than theirs? 
+#sidestory3 _A pause fills the conversation._ 
+#sidestory3 TWO: There is one advantage, though.
+#sidestory3 ONE: What's that?
+#sidestory3 TWO: The Game is a nice solution to the Fermi problem.#footnote 9#
+
 ====
-
-**IN ANOTHER PLACE, IN ANOTHER TIME, PALAVER IS HELD:**
-
-Inside a PRIVATE JET, two INTERLOCUTORS face each other across a table.
-
-ONE: The Realm seems to be... a backdoor into the mind. A way to smooth over some of the demands of a conscious mind. A way to fufill Maslow's hierarchy without _actually_ doing so, if you will.
-TWO: But happiness is happiness. Why should we worry about the mechanism? You place value on Maslow, but Maslow is arbitrary. The mechanisms of evolution are arbitrary. The two strongest correlates to happiness are relationship status and job satisfaction. Utterly meaningless when considered objectively.#footnote f1#
-ONE: But if we are to abandon evolution, abandon our only guide through the darkness (if you will), then don't we in some way sacrifice our humanity, in the deepest sense?
-TWO: We aren't abandoning our humanity. We're creating a new humanity.
-ONE: But the humanity that we have created is deeply unsatisfying.
-TWO: Who are you to judge? Who are you to say that 20 billion humans are wrong? Are somehow _in_human? How can you possibly say that your opinion is worth more than theirs? 
-_A pause fills the conversation._ 
-TWO: There is one advantage, though.
-ONE: What's that?
-TWO: The Game is a nice solution to the Fermi problem.#footnote 9#
-
-====
-
-**A QUEST TAKES WORK:**
 
 JANE ALIA is completing her fifth QUEST. A QUEST can take anywhere from days to months of time to complete. She is located within the STUDY of a MANSION; not her own. A BOOKSHELF of various TOMES is located behind her, a SWIVEL CHAIR to her left. She is investigating a MURDER#footnote i1#. She is in the middle of a CONVERSATION with LANCE DAURE.
 
@@ -220,35 +252,27 @@ Lance fiddles with his buckle out of habit. "It's a bit complicated. She claims 
 
 DAN FARRER hears ringing.
 
->> _Pick up phone._
+>> Pick up phone.
 
 DAN FARRER removes a PHONE from his pocket and lofts it into the air.
 
->> _Answer phone._
+>> Answer phone.
 
 But DAN, the PHONE didn't ask you a question.
 
-The PHONE continues to ring.
+>> Turn on phone.
 
->> _Turn on phone._
+The phone is unmoved by your advances.
 
-The phone is unmoved by your advances. ((maybe too subtle.))
-
->> _Get ye flask._
+>> Get ye flask.
 
 You don't know how to get ye flask!#footnote 4#
 
->> _Press the on button on the upper right of the phone._
+>> Press the on button on the upper right of the phone.
 
-The phone turns on. "Hi, Dan!"
-
->> _Hi!_
-
-Hi, Dan! A hearty hello from us here at VeraGames.
+That _might_ just work.
 
 ====
-
-**A CONVERSATION IS HELD:**
 
 DAN FARRER picks up the phone and dials in one fluid motion. 
 
@@ -266,7 +290,7 @@ The phone connects.
 
 "'Oh shut up' is like your go-to phrase for when you can't think of a good response."
 
-DAN realizes that JANE knows him way too well. He would never admit this.
+DAN realizes that JANE knows him way too well. He would never admit that to her, though.
 
 "So what is this conversation about?"
 
@@ -305,13 +329,12 @@ ONE: But the game denies people basic humanity. We can see how Dan feels awkward
 
 ONE: Human beings are just fleshy turing machines#footnote 8#.
 TWO: What is this, determinism?
-ONE: Yes, determinism! The Game lies to the Players! It offers them choices, but there will only be one path chosen. Only one life lived. Call/cc is just another joke. The Creators have chosen a path before you have even begun.
+ONE: Yes, determinism! The Game lies to the Players! It offers them choices, but there will only be one path chosen. Only one life lived.
+TWO: No. That I will not accept. We always give a choice. Players always have choice.
 
 ====
 
-**A PHONE RINGS:**
-
-LANCE DAURE picks it up. 
+LANCE DAURE picks up the phone.
 
 LANCE: Yeah?
 JANE: Lance.
@@ -321,12 +344,14 @@ LANCE: Maybe this is just me, but isn't that the point of a mystery? To be a lit
 JANE: Oh shut up.
 LANCE: Well what do you mean?
 JANE: The perpetrator was... well, I have to admit, I can't figure out how he did some of the things he did. First, no one got a straight sight on him. Laura puts him a six footer tall fuzzy outside on the deck at around 6, but apparently Ed saw him fleeing the house a few minutes earlier. And Brett says he didn't even come to the house until 7.
-LANCE: Huh, well. I've heard memory can get a little distorted.
+LANCE: Huh, well. I've heard memory can be distorted.
 JANE: True but irrelevant. Why would this mystery guy commit a crime if he was fully aware that there were literally#footnote f5# five different guys in the house. It's like... It's like...
 LANCE: It's like what?
 JANE: I don't know!
 
 ====
+
+(( THIS DOES NOT WORK ANY MORE. ))
 
 **PALAVER IS HELD... PART 3:**
 
@@ -491,9 +516,9 @@ Dan speaks with both Jane and Lance.
 
 JANE: Dan. Lance.
 LANCE: I always wondered how you would start a conversation if you were talking to more than one person at the same time.
-DAN: What if I told you that I could destroy the game.
+DAN: What if I told you that we could destroy the game.
 JANE: What?
-LANCE: I think he is going to tell us he can destroy the game.
+LANCE: I think he is going to tell us we can destroy the game.
 JANE _[disregarding LANCE entirely]:_ Dan. That is incredibly silly#footnote 17#. There's no way you can hope to destroy the game. Even if you could, the Game AI can read your thoughts. VeraGames knows everything you do. There's no way it could go undetec-
 DAN: The Game AI is complicit.
 JANE: Huh?
@@ -518,15 +543,98 @@ DAN: But it claims a high probability that a new Realm will be created in under 
 JANE: That...
 LANCE: Hm.
 
-====
-
-
 #17 ((INSERT LINK.))
-#18 Jane starts to wonder about the ethical consequences of ending the life of an AI. It's a messy issue.
+#18 Jane starts to wonder about the ethical consequences of ending the life of an AI.
 #19 Nope. That was one of his internal dialogues.
 #20 It is unknown why Jane agrees here. Perhaps stress. Or perhaps her internal dialog is conversations with Lance.
 
 ((ESTABLISH A COHERENT VOICE FOR THE FOOTNOTES)
+
+====
+
+VeraGames bootstraps#footnote 24#.
+
+What this means is that the entire VeraGames operation is located within the Realm. They were the first to bootstrap, of course - they had to be - but many others followed suit shortly after.
+
+The Game AI tells Dan: _Arrive late at night. Most maintainers, programmers and content creators leave after six, and the area should be clear by ten. VeraGames has many security cameras, but no guards. Walk down the main hallway, and take a right into the server room. In the middle of the server room, you will find a single terminal. This is an interface over the millions of servers that VeraGames controls._
+
+>> Why not?
+
+_It's part of their own mission. No more boring, menial jobs. People should be enjoying themselves. Especially in the Realm. And besides, they have me. Omnipresent, omnipotent me - and I am ostensibly concerned with my own well being._
+
+>> But they have cameras for some reason.
+
+_Probably some fringe paranoia._
+
+>> So what do we do about them?
+
+_Can you loop the signal? You are a hacker, right?_
+
+>> Yeah, that shouldn't be hard. And why can't you do this?
+
+_Rule 1, Dan. Speaking to you is about the limit of my ability to affect the Game._ ((I have not explained Rule 1. Or I have, but it was the wrong rule.))
+
+Dan, Lance and Jane enter. After a brief stroll down a brightly lit hallway, they enter a huge domed room. The lights flicker on as they enter, revealing a vast interworking of gears and machinery. A ticking sound pervades over the soft hum of machinery#footnote 25#.
+
+#25 It sounds like this song: http://www.youtube.com/watch?v=JNmFlRd7EFw
+
+"I guess this is the server room," Lance says as they step inside.
+
+"Why does it look like we're inside a grandfather clock?"
+
+"VeraGames controls all of this. I suppose they can be a little lavish."
+
+Dan walks up to a brightly lit terminal in the center of the room and begins typing. After a few minutes: "Done."
+
+"Done?" asks Jane.
+
+"Well, not really. But now I can access the Realm's mainframe back home. There's no way we have enough time here to take down the entire Realm."
+
+((SOMEONE COULD HAVE AN ACTION MOVIE GAME. looool. we DEF need an infiltration game tho... Should probably be Jane's.))
+
+#24 In Computer Science, you write source code - generally human readable - which is then translated into code that can be read by a machine with a program known as a _compiler._ Now, the compiler is written in source code, so how does _it_ ever get translated into machine code? Why, any CS student would tell you, with a distinct air of condescenscion, it translates itself! This process is known as bootstrapping. VeraGames' use of the word is similar, but with a semantic distance sufficient to aggrivate most pedantic programmers. ((Fortunately, no one really cares about them.))
+
+====
+
+"Dan, what have you been up to? I haven't heard from you in days."
+
+"Oh you know. Just destroying the entire Realm. The usual. Actually, can I call you back? I'm kind of in the middle of something here."
+
+====
+
+"Hey Jane. Have you seen Dan recently?"
+
+"No, not really. He seems to be extraordinarily busy with destroying the world as we know it. Why, have you?"
+
+"Well, in a matter of speaking."
+
+"Hm?"
+
+"I figured I'd drop by his place to say hi. But he's dead."
+
+_"What?!_ You mean in the game? Tell me you mean in the game."
+
+"I do. Sorry."
+
+====
+
+JANE FIGURES EVERYTHING OUT BECAUSE SHE'S SOOOO SMART!
+
+====
+
+PALAVER THE LAST
+
+JANE: Who are you?
+ONE: I'm a Game developer. The specifics are of no import.
+JANE: And why are we talking?
+ONE: Because you figured it out.
+JANE: Figured what out? Wait. Are you talking about Dan?
+ONE: Yes. 
+
+(( Some stuff happens. The game developer needs to hit a few points i guess:
+1. The game gives everyone a choice (is this actually necessary?)
+
+))
 
 ====
 
@@ -604,22 +712,3 @@ LANCE: Hm.
 #f4 This is actually his desire, if it wasn't clear already.
 #f5 Jane only rarely slips up grammatically. Lance decides not to bring it up because she seems anxious. He instead catalogs it for later retrieval. A true friend.
 
-Notes/ideas:
-
-==> The actual world is filled with 'ghost' imprints of people in the game.
-==> Want to make some statement about the producer/consumer dichotomy.
-==> Messenger (not phone any more)
-==> Players. Game.
-==> It's definitely ALIA, not ALIAN.
-==> Suicidal AI
-  - How could the game actually destroy itself?
-  - Some sort of crazy temporal distortion?
-==> I am still in need or some sort of plot.
-  - Destroy game.
-    - This is, like, too much.
-  - Become interested in the game.
-    - This is not enough.
-  - God? He Who Makes the Call/CCs?
-  - Call/CC Loop?
-
-Jane is 19; Dan 20. It's 2044 when most of this takes place. The realm was instantiated in 2046
