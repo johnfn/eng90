@@ -1,4 +1,5 @@
 import re
+import os
 import sys
 import markdown
 
@@ -17,14 +18,29 @@ def footnotify(item):
   match = item.group()
   footnote_name = match[match.find(" ") + 1 : -1]
   num = match[match.find(" ") + 1 : -1]
-  footnotes[num] = "<div><b class='fn' id='f_" + footnote_name + "'>" + num + ":</b> " + process(footnotes[num]) + "</div>"
+  is_sidestory = "sidestory" in num
+  if is_sidestory:
+    footnotes[num] = "<div><b style='display:none;' class='fn' id='f_" + footnote_name + "'>" + num + ":</b> " + process(footnotes[num]) + "</div>"
+  else:
+    footnotes[num] = "<div><b class='fn' id='f_" + footnote_name + "'>" + num + ":</b> " + process(footnotes[num]) + "</div>"
   footnotebuff += process(footnotes[num]) + "\n"
+
   return "<sup id='" + footnote_name + "'>" + num + "</sup>"
 
 # Gather all footnotes.
+curfootnote = ""
 for line in lines:
   line = line.strip()
   if line == "": continue
+  if line.startswith("#") and line.endswith("#"):
+    curfootnote = (line[1:-1] if curfootnote == "" else "")
+    footnotes[curfootnote] = ""
+    continue
+
+  if curfootnote != "":
+    footnotes[curfootnote] += line + "\n\n"
+    continue
+
   if line.startswith("#"):
     footnote_num = line[1:line.find(" ")]
     if footnote_num in footnotes:
@@ -33,9 +49,15 @@ for line in lines:
     else:
       footnotes[footnote_num] = line[line.find(" ") + 1:] + "\n\n"
 
+ignoring = False
+
 for line in lines:
   line = line.strip()
   if line == "": continue
+  if line.startswith("#") and line.endswith("#"): 
+    ignoring = not ignoring
+    continue
+  if ignoring: continue
   if line.startswith("#"): continue
 
   footnote = re.compile(r'#footnote ([^#]+)#')
@@ -71,12 +93,23 @@ $(function() {
     lowest_so_far = bottom_of($other);
     console.log(lowest_so_far);
   });
+
+  var cs = $("#centerspan");
+  $("body").append(cs);
+  cs.remove();
+  $("#centerspan").css('position', 'absolute');
+  $("#centerspan").css('top', lowest_so_far);
 });
 </script>
 </head>
 <body>\n"""
 footer = "</body></html>"
 
-print header + "<div class='normal'>" + html + "</div> <div class='footnote'>" + footnotebuff + "</div>" + footer
+os.unlink('story.html')
+
+story = open('story.html', 'w')
+contents = header + "<div class='normal'>" + html + "</div> <div class='footnote'>" + footnotebuff + "</div>" + footer
+
+story.write(contents)
 
 #sys.stderr.write(repr(footnotes))

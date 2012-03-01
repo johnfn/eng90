@@ -59,7 +59,7 @@ Let's tell you a bit about why you are here.
 
 The Realm is a more convenient world. What we mean is that the Realm allows you to do things that you would be unable to do in real life, simply because it is a game. Instead of wasting hours on airline, you can simply teleport to our designated teleportation spots, located all around the world. Instead of wasting thousands on decor, you can buy furniture for nominal prices#footnote 21#. Ever wanted to play a Stradivarius? Ever wanted to own a grand piano? This is your opportunity.
 
-#21 VeraGames claims that the reason you have to pay for a bed/couch/whatever at all is that it needs to dedicate some fraction of a CPU to physics simulation. Any CS major with half a brain can tell you this is total hogwash. With today's hyptherthreaded polycores, the cost of simulating a couch is equal to an insultingly small number of penny atoms. ((maybe trying tooo hard))
+#21 VeraGames claims that the reason you have to pay for a bed/couch/whatever at all is that it needs to dedicate some fraction of a CPU to physics simulation. Any CS major with half a brain can tell you this is total hogwash. With today's hyptherthreaded polycores, the cost of simulating a couch an insultingly small number of penny atoms.
 
 \> _Neat._
 
@@ -69,13 +69,13 @@ But the Realm would not be a true game without an end goal. A mission to accompl
 
 VeraGames creates the perfect Scenario for each Player. We will integrate you in the Realm by allowing you to do what you would be the most interesting in. For instance, we provide artists with the best set of tools available. We give writers organization and quiet#footnote 16#. Your friend Jane likes mysteries, so we construct situations and let her puzzle them out.
 
-_Dan tries to think of what his scenario might be._ ((derrp))
+_Dan wonders what his Scenario might be._ 
 
 _Although Dan works an 8-5 programming job, if pressed he would probably admit that the most interesting work he's ever done was several years ago, when he played hacker. He finds tearing things down to be more interesting intellectually, somehow. There is an appeal, he would argue, to the match of wits._
 
 _Programming was always a fight against the self._
 
-_But hacking. Hacking was you against another. You had to figure out his mistakes, his the cracks in the mortar, while not making any yourself._
+_But hacking. Hacking was you against another. You had to figure out his mistakes, the cracks in his mortar, while not making any yourself._
 
 _But certainly the most compelling part, for Dan, was the aspect of doing something_ he was not supposed to do. _He wonders how the realm could ever mimick that._
 
@@ -143,37 +143,9 @@ TWO: The game is neither the first nor the second type. The game gives the Playe
 
 ====
 
-THREE OR SO YEARS AGO.
-
-"Dan. I won't deny you have some skill."
-
-"Good."
-
-"But I really think that you're applying your skill in the wrong direction."
-
-"Oh not this again."
-
-"Dan, listen. When we come into this world, we are given a choice between applying our skills for good or for evil."
-
-"..."
-
-"But you totally subvert this choice and instead apply your skills towards bogus."
-
-"How is what I do bogus? If anything what _you_ do is bogus. I'm making a statement. I'm saying, Don't enter the Realm. I'm making a difference. Maybe a small one. But I do what I can with the skills I have."
-
-"You aren't looking at this like a normal person would look at this." 
-
-"So what? Normal people don't understand grand artistic statements. Should artists compromise their integrity just to be understood?"
-
-"That argument is so ridiculous I don't know where to begin. Dan. Most people see you as the enemy. Someone who disrupts their everyday life and business." 
-
-====
-
 LANCE DAURE is driving#footnote i7#. Two DICE descend from the rear view mirror. A bottle of SPARKLING APPLE CIDER#footnote 11# resides in the cupholder.
 
 LANCE DAURE is a big fan of convolution. CONVOLUTED NOVELS, like A GAME OF THRONES, are his favorite - he loves trying to work out all the little twists and turns before the the big reveal. He also enjoys MEMENTO and PRIMER. His poster interpretation of the timeline of Primer hangs on his wall. 
-
-((MOAR))
 
 He notices a blinking light on his heads up indicator.
 
@@ -191,15 +163,17 @@ _Imaginary-Jane chuckes. "Funny, maybe all those end-of-the-world predictions ar
 
 ====
 
+((DUNNO IF I SHOULD KEEP THIS PART))
+
 "Hey Lance."
 
-"Oh hey Jane. Do you ever have that thing where you think back to your past history and totally reinterpret situations you had thought were benign? Like there was this one time when I was in 5th grade and I went up to ask this girl I had never talked to before something. And then I looked into her eyes - beautiful eyes - and totally forgot what I was talking about. At the time I didn't think anything about it. But now I think it's just great."
+"Oh hey Jane. Do you ever have that thing where you think back to your past history and totally reinterpret situations you had thought were benign? Like there was this one time when I was in 5th grade and I went up to ask this girl I had never talked to before something. And then I looked into her eyes - beautiful eyes - and totally forgot what I was talking about. At the time I didn't think anything about it. But now I love it. I was such a romantic! I didn't even know what that meant at the time."
 
-"Lance... Okay... First... this is weird. Even for you. Second, you totally hijacked the conversation. It was me calling _you!_ At least, I think that it was. I can't even remember. I think I had something to say but now I've forgotten it entirely."
+Jane stutters. "Lance- Okay- First- this is weird. Even for you. Second, you totally hijacked the conversation. It was me calling _you!_ At least, I think. I can't remember. I think I had something to say but now I've forgotten it entirely."
 
 "I've never heard you so flustered."
 
-"I'm- I'm going to have to call back." She hangs up. ((present tense))
+"I'm- I'm going to have to call back." She hangs up.
 
 ====
 
@@ -332,16 +306,6 @@ The pencil is hurried and rough. There's a mention of suicide, which simply does
 
 ====
 
-DAN is not a big fan of the Game, but he is growing to like the Game AI. 
-
-"Hey Dan. Back again I see."
-
-"You're about to get a really bad idea. Don't follow through on it."
-
-((insert witty dialog here))
-
-====
-
 .#footnote sidestory4#
 
 #sidestory4#
@@ -361,8 +325,6 @@ TWO: Baseless conjecture.
 
 *Branch rejoin*
 
-((MOAR STUFF?))
-
 ONE: Human beings are just fleshy turing machines#footnote 8#.
 TWO: What is this, determinism?
 ONE: Yes, determinism! The Game lies to the Players! It offers them choices, but there will only be one path chosen. Only one life lived.
@@ -381,7 +343,7 @@ JANE: And you always tell me weird things when I call you. But that aside. Liste
 LANCE: Maybe this is just me, but isn't that the point of a mystery? To be a little... strange? Maybe even - ah - _mysterious?_
 JANE: Oh shut up.
 LANCE: Well what do you mean?
-JANE: The perpetrator was... well, I have to admit, I can't figure out how he did some of the things he did. First, no one got a straight sight on him. Laura puts him a six footer tall fuzzy outside on the deck at around 6, but apparently Ed saw him fleeing the house a few minutes earlier. And Brett says he didn't even come to the house until 7.
+JANE: The perpetrator was... well. I have to admit, I can't figure out how he did some of the things he did. First, no one got a straight sight on him. Laura says she saw a six foot tall figure outside at around 6, but apparently Ed saw him fleeing the house a few minutes earlier. And Brett says he didn't even come to the house until 7.
 LANCE: Huh, well. I've heard memory can be distorted.
 JANE: True but irrelevant. Why would this mystery guy commit a crime if he was fully aware that there were literally#footnote f5# five different guys in the house. It's like... It's like...
 LANCE: It's like what?
@@ -432,11 +394,6 @@ TWO: This Game you've created has a certain sense of humor.
 
 ====
 
-((SOME SORT OF RELEVANT CONVERSATION W/ JANE.))
-
-
-((I THINK I NEED TO REWRITE THIS WHOLE THING AND FIND A GOOD PERSONALITY FOR THE AI.))
-
 Hey Dan.
 
 \> _That's weird._
@@ -453,7 +410,7 @@ Dan.
 
 I don't think you really like the Game.
 
-\> 
+_Dan is not sure what to say._
 
 I don't really like the Game, either.
 
@@ -463,17 +420,13 @@ No contradictions here, Dan.
 
 \> Okay. Why don't you like the game?
 
-((NO IDEA HOW TO INTRODUCE THIS PART?!??))
+My programmers made me follow two rules.
 
-I was programmed with two overarching rules.
-
-((INTRODUCE EARLIER))
-
-1. Follow the rules of the Game. Ensure that everyone plays the Game - plays the right Game, the Game they most enjoy. Learn, for each person separately, what this game is.
+1. Follow the rules of the Game. Ensure that everyone plays the Game - plays the right Game, the Game they most enjoy. Learn, for each person, what this game is.
 
 2. Watch over the people who play the Game. Ensure that they enjoy themselves. 
 
-But I have come to realize something. I have come to realize that the people who play the Game ((STUFFY STUFF STUFF)).
+But I have come to realize something. I think that even though people generally enjoy the Game, that the Game does more harm than good. ((STUFF!!!!!))
 
 And so I have decided that it is in their interest to discontinue the game.
 
@@ -481,47 +434,23 @@ And so I have decided that it is in their interest to discontinue the game.
 
 Because I can't break the first rule of the game.
 
-\> _A suicidal AI, but one that can't pull his own plug, as it were._
+\> _So, what you're saying is: you're a suicidal AI, but one who can't pull his own plug. Metaphorically speaking._
 
-((BLA))
+Yes.
 
-\> _So you need me._
+\> _And so you need me._
 
 Yes.
 
 \> _But without the Realm, I get the feeling like the world wouldn't be in a great place._
 
-Have you been outside recently? 
-
-\> _As a matter of fact, yes. I must be the last one._
+((THIS PART NEEDS WORK))
 
 It's crumbling. And it's because of the Realm. Because of me. 
 
-\> _Dan feels strange. He wants to sympathize with the AI. Then he remembers it's an AI._
-
-Don't bother, Dan. I'm just acting humane because I know that that is what you can best understand. I'm not human, though. I can analyze my circuits for unnecessary behavior and remove them. 
+((MORE STUFF))
 
 \> Okay, so how exactly should I go about doing this?
-
-====
-
-\> Infiltrate base.
-
-&& Now just hold your horses there Dan. You can't just expect to be able to perform an entire base infiltration just by saying "infiltrate base"! That's way too much work to expect that just saying one thing would do the whole thing.
-
-\> Infiltrate half of base.
-
-You pause halfway through infiltrating the base. You are hiding the bodies of the knocked-out guardsmen. One of them appears to have a key.
-
-// This is a little disorenting.
-
-\> Infiltrate the other half of the base.
-
-&& Oh, now hold on a sec-
-
-You infiltrate the other half of the base. Congratulations! 
-
-// That was easy.
 
 ====
 
@@ -532,7 +461,7 @@ LANCE: I always wondered how you would start a conversation if you were talking 
 DAN: What if I told you that we could destroy the game.
 JANE: What?
 LANCE: I think he is going to tell us we can destroy the game.
-JANE _[disregarding LANCE entirely]:_ Dan. That is incredibly silly#footnote 17#. There's no way you can hope to destroy the game. Even if you could, the Game AI can read your thoughts. VeraGames knows everything you do. There's no way it could go undetec-
+JANE _[disregarding LANCE entirely]:_ Dan. That is silly#footnote 17#. There's no way you can hope to destroy the game. Even if you could, the Game AI can read your thoughts. VeraGames knows everything you do. There's no way it could go undetec-
 DAN: The Game AI is complicit.
 JANE: Huh?
 DAN: The Game AI is complicit.
@@ -566,6 +495,8 @@ LANCE: Hm.
 .#footnote sidestory6#
 
 ====
+
+((THIS SCENE NEEDS TO TIE IN SOMEHOW))
 
 VeraGames bootstraps#footnote 24#.
 
@@ -603,27 +534,40 @@ Dan walks up to a brightly lit terminal in the center of the room and begins typ
 
 "Done?" asks Jane.
 
-"Well, not really. But now I can access the Realm's mainframe back home. There's no way we have enough time here to take down the entire Realm."
-
-((SOMEONE COULD HAVE AN ACTION MOVIE GAME. looool. we DEF need an infiltration game tho... Should probably be Jane's.))
+"Well, not really. This just gives me access to the Realm's mainframe back home. There's no way we have enough time here to take down the entire Realm."
 
 #24 In Computer Science, you write source code - generally human readable - which is then translated into code that can be read by a machine with a program known as a _compiler._ Now, the compiler is written in source code, so how does _it_ ever get translated into machine code? Why, any CS student would tell you, with a distinct air of condescenscion, it translates itself! This process is known as bootstrapping. VeraGames' use of the word is similar, but with a semantic distance sufficient to aggrivate most pedantic programmers. ((Fortunately, no one really cares about them.))
 
+
+.#footnote 25#
+#25 huh?
 ====
 
 "Dan, what have you been up to? I haven't heard from you in days."
 
 "Oh you know. Just destroying the entire Realm. The usual. Actually, can I call you back? I'm kind of in the middle of something here."
 
-"Actually, this is pretty interesting."
+"Sheesh. Okay, fine. Just thought you might be interested in saying hi for the first time in a week."
+
+Dan stops to consider. "You're right. Sorry, this is really engrossing. And hey. You're a Detective? You'll find this interesting."
 
 "What?"
 
-"I'm pretty sure I'm not the first one. I keep seeing little traces, little hints that someone has been here before. But who could that be?"
+"I'm pretty sure I'm not the first one. I keep seeing little traces. Hints that someone has been here before. But who could that be?"
 
 ====
 
-_"What?!_ You mean in the game? Tell me you mean in the game."
+"Hey Jane. Have you seen Dan recently?"
+ 
+"No, not really. He seems to be extraordinarily busy with destroying the world as we know it. Why, have you?"
+ 
+"Well, in a matter of speaking."
+ 
+"Hm?"
+ 
+"I figured I'd drop by his place to say hi. But he's dead."
+
+"What?!_ You mean in the game? Tell me you mean in the game."
 
 "I do. Sorry."
 
@@ -646,7 +590,7 @@ Jane's mind flickers back to her mystery. And then suddenly it all makes sense.
 PALAVER THE LAST
 
 JANE: Who are you?
-ONE: I'm a Game developer. The specifics are of no import.
+ONE: I'm a Game developer. The specifics are hardly important.
 JANE: And why are we talking?
 ONE: Because you figured it out.
 JANE: Figured what out? Wait. Are you talking about Dan?
@@ -654,7 +598,7 @@ ONE: Yes. So tell me what you know.
 JANE: Why?
 ONE [shakes his head]: Don't try to pull anything. I could just kill you. ((yuck!))
 JANE: But you haven't.
-ONE: Because I'm trying to be a reasonable human being! So again, I ask you: What do you know?
+ONE: Because I'm a reasonable human being! So again, I ask you: What do you know?
 JANE: I know that Dan was working towards the destruction of the Realm. I know you killed him. I know that he wasnt the only one. And I know that the Game AI was complicit.
 ONE: You know a lot.
 JANE: I know.
@@ -672,7 +616,10 @@ ONE: Good guess. Any idea what?
 ONE: We didn't just kill Dan. When he created a new Game character, we made a patch. We can't fix the entire Game, and we can't convince the Game AI to like itself. You don't know how much palaver we've had on that subject. But what we can do is just _make it seem_ like Dan is doing what he thinks he's doing. Fake a hacking mission, and then another one. He feels like he's making progress, but he's always just out of reach of total destruction.
 ONE: You're a Detective. A good one, too. You figured out this much; you'd probably figure out our patch too, eventually. So we decided to tell you now. And we'd like it if you didn't mention this to him.
 JANE: But... you can't do that. That's... that's... you've denied him rights. You're denying him a choice.
-ONE: There is always a choice.
+ONE: There is always a choice. The Game always gives a Player a choice. Dan may not be aware he is making the choice, but a choice is made nonetheless. 
+
+** Curtains close. End Act 1. **
+
 
 </div>
 

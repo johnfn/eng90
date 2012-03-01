@@ -26,12 +26,13 @@ def getLastModified():
 
 print "Running %s..." % file
 while True:
-    id = subprocess.Popen(['python', file, '>', 'story.html']) #Open the process in the background
+    id = subprocess.Popen(['python', file]) #Open the process in the background
     while True:
         files = getLastModified()
         time.sleep(refreshTime) #check every x seconds for a change
         escape = False
         for f in files:
+            if f != "/Users/grantm/story/eng90/story.html": continue
             if not os.path.isfile(f) or os.stat(f).st_mtime != files[f]:
                 print "File modified. Reloading..." 
                 escape = True
